@@ -42,7 +42,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/0imRtuzqccIAAAAj/bubu-dudu-flower-gift.gif" />
-          <div className="text-4xl md:text-6xl font-bold my-4">
+          <div className="text-4xl md:text-6xl font-bold my-4 text-center">
             Okay tặng cho người đẹp một bó hoa nè!
           </div>
         </>
