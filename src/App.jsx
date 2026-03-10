@@ -41,7 +41,7 @@ export default function Page() {
     <div className="overflow-hidden flex flex-col items-center justify-center pt-4 h-screen -mt-16 selection:bg-rose-600 selection:text-white text-zinc-900">
       {yesPressed ? (
         <>
-          <img src="/public/bubu-dudu-flower-gift.gif" />
+          <img src="https://media.tenor.com/0imRtuzqccIAAAAj/bubu-dudu-flower-gift.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
             Okay tặng cho người đẹp một bó hoa nè!
           </div>
