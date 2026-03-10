@@ -43,7 +43,7 @@ export default function Page() {
         <>
           <img src="/public/bubu-dudu-flower-gift.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Yayyy, mình cùng chơi game nhé!
+            Okay tặng cho người đẹp một bó hoa nè!
           </div>
         </>
       ) : (
